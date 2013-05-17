@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+add_action( 'genesis_setup', '${1:prefix}_theme_setup', 15 );
+/**
+ * Theme Setup
+ *
+ * This setup function attaches all of the site-wide functions 
+ * to the correct hooks and filters. All the functions themselves
+ * are defined below this setup function.
+ *
+ * @return void
+ */
+function ${1:prefix}_theme_setup() {
+
+	# BACKEND
+	# ==================================================================================
+	// add actions here
+
+
+	# FRONTEND
+	# ==================================================================================
+	// add actions here
+}
+
+// define functions here
+]]></content>
+	<tabTrigger>childthemesetup</tabTrigger>
+	<scope>source.php,source.php.embedded.block.html</scope>
+	<description>Child theme setup function</description>
+</snippet>

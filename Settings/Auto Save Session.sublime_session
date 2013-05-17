@@ -1,0 +1,2108 @@
+{
+	"folder_history":
+	[
+		"/Users/aglekis3/Dropbox/Formation-perso/Git-test/css3-test-1011",
+		"/Applications/MAMP/gncom/yvesjaffre",
+		"/Users/aglekis3/Dropbox/markdown/Modules-md/js-fundamentals-tutp-niv1-plan",
+		"/Users/aglekis3/Desktop/gn-genesis-yvesj-v2",
+		"/Applications/MAMP/gncom/yvesjaffre/wp-content/plugins/gnoyelle-cpt",
+		"/Users/aglekis3/Dropbox/markdown/Modules-md/git-essential-training",
+		"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2",
+		"/Users/aglekis3/Dropbox/Formation-perso/_jQuery-formation/tutsplus-Javascripts-fundamentals",
+		"/Applications/MAMP/gncom/gncom-v5",
+		"/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_market_place/Legacy-theme/legacy",
+		"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy",
+		"/Users/aglekis3/Dropbox/Formation-perso/bootstrap-formation/twitter-bootstrap-37d0a30",
+		"/Applications/MAMP/gncom/Git-test/css3-test-1011",
+		"/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_autre/bones genesis/bones_genesis",
+		"/Applications/MAMP/gncom/stimulus",
+		"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays",
+		"/Applications/MAMP/gncom/gncom-v5-test"
+	],
+	"last_window_id": 169,
+	"settings":
+	{
+		"new_window_height": 813.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"h",
+						"h3"
+					],
+					[
+						"gn",
+						"gn_taxo"
+					],
+					[
+						"the_ti",
+						"the_title"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"is_activ",
+						"is_active_sidebar"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"no",
+						"no_antialias"
+					],
+					[
+						"po",
+						"pop"
+					],
+					[
+						"le",
+						"len"
+					]
+				]
+			},
+			"build_system": "Packages/User/Chrome gn.sublime-build",
+			"command_palette":
+			{
+				"height": 287.0,
+				"selected_items":
+				[
+					[
+						"sav",
+						"File: Save All"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Set Syntax:h",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"set",
+						"Set Syntax: Markdown"
+					],
+					[
+						"File",
+						"File: Save All"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/variable-mixin.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/lib-gn/functions-gn.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/home.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/p-tp-real-tot.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/widget-extra.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/responsive-max-600.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/responsive-600-960.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/images/quote.png",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.css",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/default.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/genesis-basic.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/functions.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/heading.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/variable.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/theme-extra.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/layout.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style.css",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/style-main.css",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/8A072682-E020-42BC-B56F-F5B6BB6ADADA/advanced-cache.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/9C8CB57C-00F9-47A9-B256-595815216AC4/template-home.php",
+				"/Users/aglekis3/Library/Caches/TemporaryItems/template-home.php",
+				"/Users/aglekis3/Dropbox/markdown/_ref-markdown/gntr-pro Bio Perso.txt",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/421FE04C-E75A-477F-B013-F177B7D48A4E/wp-config.php",
+				"/Users/aglekis3/PROJETS/WEB SITE/_en_pause/LDM/_Actions/mini-bio-enligne/Mini Bio-Viviane HD.html",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/3FCA1204-947E-4D1D-8EDA-C6EF274A85AB/timthumb.php",
+				"/Users/aglekis3/Dropbox/markdown/Code-ref/gncr-acf-flexible_content.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/529D50BB-ECF1-417B-AB9D-3A8836BBDCC3/.htaccess",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script.js",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/test.js",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script-gn.js",
+				"/Users/aglekis3/Desktop/erro_log_a_voir.txt",
+				"/Users/aglekis3/Desktop/firefox-bookmarks-20130117.html",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Chrome.sublime-build",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/aglekis3/Dropbox/Formation-perso/_jQuery-formation/tutsplus-Javascripts-fundamentals/01-JavaScript-Basics/01-Getting-started.zip",
+				"/test.html"
+			],
+			"find":
+			{
+				"height": 81.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"#footer-widgets",
+					"<<<<<HEAD",
+					"HEAD",
+					"<<<<",
+					"home-bottom",
+					"4",
+					".StylesSliderInner",
+					".StylesSliderWrap",
+					"home-bottom",
+					".home-bottom-3",
+					".home-bottom-3 ",
+					".home-bottom-3",
+					"1",
+					"#home-bottom",
+					"#home-bottom ",
+					"#home-bottom",
+					".home-bottom",
+					"#home-bottom",
+					"/* Slider */",
+					"title=\"Ouverture\"",
+					"div",
+					"clear",
+					"Piao",
+					"y",
+					"http://www.sanipousse41.com/xwp-test",
+					"timetable",
+					"http://",
+					"wp23i89ozPa_",
+					"dev.noyelle.fr",
+					"treow.net",
+					"dev.treow.eu",
+					"cache",
+					"statut bar",
+					"word wrap",
+					"title=\"Ouverture\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					".home-extra-gn"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 81.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 27.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"gn",
+						"lib-gn/functions-gn.php"
+					],
+					[
+						"var",
+						"style-less/variable-mixin.less"
+					],
+					[
+						"hom",
+						"home.php"
+					],
+					[
+						"style-less/gene",
+						"style-less/genesis-basic.less"
+					],
+					[
+						"genesi",
+						"style-less/genesis-basic.less"
+					],
+					[
+						"lesson10/",
+						"01-JavaScript-Basics/Lesson10-Loops/script-gn.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1186.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"d",
+						"display"
+					],
+					[
+						"no",
+						"no_antialias"
+					],
+					[
+						"po",
+						"pop"
+					],
+					[
+						"le",
+						"len"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/theme-extra.less",
+					"settings":
+					{
+						"buffer_size": 5656,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/heading.less",
+					"settings":
+					{
+						"buffer_size": 2581,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/variable-mixin.less",
+					"settings":
+					{
+						"buffer_size": 6337,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/Chrome gn.sublime-build",
+			"command_palette":
+			{
+				"height": 207.0,
+				"selected_items":
+				[
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sideb",
+						"View: Toggle Side Bar"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"set syntax: php",
+						"Set Syntax: PHP"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"set",
+						"Set Syntax: Markdown"
+					],
+					[
+						"File",
+						"File: Save All"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/home.php",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/style-main.less",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/responsive-600-960.less",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/responsive-max-600.less",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/widget-extra.less",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/variable.less",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/default.less",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/style-main.css",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/8A072682-E020-42BC-B56F-F5B6BB6ADADA/advanced-cache.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/9C8CB57C-00F9-47A9-B256-595815216AC4/template-home.php",
+				"/Users/aglekis3/Library/Caches/TemporaryItems/template-home.php",
+				"/Users/aglekis3/Dropbox/markdown/_ref-markdown/gntr-pro Bio Perso.txt",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/421FE04C-E75A-477F-B013-F177B7D48A4E/wp-config.php",
+				"/Users/aglekis3/PROJETS/WEB SITE/_en_pause/LDM/_Actions/mini-bio-enligne/Mini Bio-Viviane HD.html",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/3FCA1204-947E-4D1D-8EDA-C6EF274A85AB/timthumb.php",
+				"/Users/aglekis3/Dropbox/markdown/Code-ref/gncr-acf-flexible_content.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/529D50BB-ECF1-417B-AB9D-3A8836BBDCC3/.htaccess",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script.js",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/test.js",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script-gn.js",
+				"/Users/aglekis3/Desktop/erro_log_a_voir.txt",
+				"/Users/aglekis3/Desktop/firefox-bookmarks-20130117.html",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Chrome.sublime-build",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/aglekis3/Dropbox/Formation-perso/_jQuery-formation/tutsplus-Javascripts-fundamentals/01-JavaScript-Basics/01-Getting-started.zip",
+				"/test.html"
+			],
+			"find":
+			{
+				"height": 81.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less,-*.css",
+					"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"#home-bottom",
+					"/* Slider */",
+					"div",
+					"clear",
+					"Piao",
+					"y",
+					"http://www.sanipousse41.com/xwp-test",
+					"timetable",
+					"http://",
+					"wp23i89ozPa_",
+					"dev.noyelle.fr",
+					"treow.net",
+					"dev.treow.eu",
+					"cache",
+					"statut bar",
+					"word wrap",
+					"title=\"Ouverture\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"home-extra-gn"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/theme-extra.less",
+							"settings":
+							{
+								"buffer_size": 5656,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5363,
+										5363
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LESS/LESS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/heading.less",
+							"settings":
+							{
+								"buffer_size": 2581,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										142,
+										142
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LESS/LESS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/variable-mixin.less",
+							"settings":
+							{
+								"buffer_size": 6337,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5902,
+										5902
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LESS/LESS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 81.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 27.0
+			},
+			"position": "94 11 1186 835 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"vari",
+						"style-less/variable-mixin.less"
+					],
+					[
+						"ho",
+						"home.php"
+					],
+					[
+						"lesson10/",
+						"01-JavaScript-Basics/Lesson10-Loops/script-gn.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"window_id": 123,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"is_activ",
+						"is_active_sidebar"
+					],
+					[
+						"h",
+						"h1	Tag"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"no",
+						"no_antialias"
+					],
+					[
+						"po",
+						"pop"
+					],
+					[
+						"le",
+						"len"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_market_place/Legacy-theme/legacy/home.php",
+					"settings":
+					{
+						"buffer_size": 2336,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_market_place/Legacy-theme/legacy/functions.php",
+					"settings":
+					{
+						"buffer_size": 5561,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_market_place/Legacy-theme/legacy/style.css",
+					"settings":
+					{
+						"buffer_size": 59528,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/Chrome gn.sublime-build",
+			"command_palette":
+			{
+				"height": 327.0,
+				"selected_items":
+				[
+					[
+						"Set Syntax:h",
+						"Set Syntax: HTML"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"set",
+						"Set Syntax: Markdown"
+					],
+					[
+						"File",
+						"File: Save All"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/theme-extra.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.css",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/layout.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/genesis-basic.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style.css",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/default.less",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/style-main.css",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/8A072682-E020-42BC-B56F-F5B6BB6ADADA/advanced-cache.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/9C8CB57C-00F9-47A9-B256-595815216AC4/template-home.php",
+				"/Users/aglekis3/Library/Caches/TemporaryItems/template-home.php",
+				"/Users/aglekis3/Dropbox/markdown/_ref-markdown/gntr-pro Bio Perso.txt",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/421FE04C-E75A-477F-B013-F177B7D48A4E/wp-config.php",
+				"/Users/aglekis3/PROJETS/WEB SITE/_en_pause/LDM/_Actions/mini-bio-enligne/Mini Bio-Viviane HD.html",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/3FCA1204-947E-4D1D-8EDA-C6EF274A85AB/timthumb.php",
+				"/Users/aglekis3/Dropbox/markdown/Code-ref/gncr-acf-flexible_content.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/529D50BB-ECF1-417B-AB9D-3A8836BBDCC3/.htaccess",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script.js",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/test.js",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script-gn.js",
+				"/Users/aglekis3/Desktop/erro_log_a_voir.txt",
+				"/Users/aglekis3/Desktop/firefox-bookmarks-20130117.html",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Chrome.sublime-build",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/aglekis3/Dropbox/Formation-perso/_jQuery-formation/tutsplus-Javascripts-fundamentals/01-JavaScript-Basics/01-Getting-started.zip",
+				"/test.html"
+			],
+			"find":
+			{
+				"height": 81.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"/* Slider */",
+					"title=\"Ouverture\"",
+					"div",
+					"clear",
+					"Piao",
+					"y",
+					"http://www.sanipousse41.com/xwp-test",
+					"timetable",
+					"http://",
+					"wp23i89ozPa_",
+					"dev.noyelle.fr",
+					"treow.net",
+					"dev.treow.eu",
+					"cache",
+					"statut bar",
+					"word wrap",
+					"title=\"Ouverture\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_market_place/Legacy-theme/legacy"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_market_place/Legacy-theme/legacy/home.php",
+							"settings":
+							{
+								"buffer_size": 2336,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										227,
+										227
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 272.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_market_place/Legacy-theme/legacy/functions.php",
+							"settings":
+							{
+								"buffer_size": 5561,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4325,
+										4511
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/aglekis3/INFORMATIQUE/01-SoftWare/WordPress/Genesis_framework/theme_enfant/theme_enfant_market_place/Legacy-theme/legacy/style.css",
+							"settings":
+							{
+								"buffer_size": 59528,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										59521,
+										59521
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 354.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 81.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 27.0
+			},
+			"position": "43 9 1186 806 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"lesson10/",
+						"01-JavaScript-Basics/Lesson10-Loops/script-gn.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"window_id": 128,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"h",
+						"h3"
+					],
+					[
+						"gn",
+						"gn_taxo"
+					],
+					[
+						"the_ti",
+						"the_title"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"is_activ",
+						"is_active_sidebar"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"no",
+						"no_antialias"
+					],
+					[
+						"po",
+						"pop"
+					],
+					[
+						"le",
+						"len"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.less",
+					"settings":
+					{
+						"buffer_size": 426,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/p-tp-real-tot.php",
+					"settings":
+					{
+						"buffer_size": 274,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/p-tp-real-type.php",
+					"settings":
+					{
+						"buffer_size": 1429,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/widget-extra.less",
+					"settings":
+					{
+						"buffer_size": 9532,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/lib-gn/functions-gn.php",
+					"settings":
+					{
+						"buffer_size": 4338,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/variable-mixin.less",
+					"settings":
+					{
+						"buffer_size": 7256,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/Chrome gn.sublime-build",
+			"command_palette":
+			{
+				"height": 287.0,
+				"selected_items":
+				[
+					[
+						"sav",
+						"File: Save All"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Set Syntax:h",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"set",
+						"Set Syntax: Markdown"
+					],
+					[
+						"File",
+						"File: Save All"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/variable-mixin.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/lib-gn/functions-gn.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/home.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/p-tp-real-tot.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/widget-extra.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/responsive-max-600.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/responsive-600-960.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/images/quote.png",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.css",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/default.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/genesis-basic.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/functions.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/heading.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/variable.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/theme-extra.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/layout.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style.css",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/style-main.css",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/8A072682-E020-42BC-B56F-F5B6BB6ADADA/advanced-cache.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/9C8CB57C-00F9-47A9-B256-595815216AC4/template-home.php",
+				"/Users/aglekis3/Library/Caches/TemporaryItems/template-home.php",
+				"/Users/aglekis3/Dropbox/markdown/_ref-markdown/gntr-pro Bio Perso.txt",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/421FE04C-E75A-477F-B013-F177B7D48A4E/wp-config.php",
+				"/Users/aglekis3/PROJETS/WEB SITE/_en_pause/LDM/_Actions/mini-bio-enligne/Mini Bio-Viviane HD.html",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/3FCA1204-947E-4D1D-8EDA-C6EF274A85AB/timthumb.php",
+				"/Users/aglekis3/Dropbox/markdown/Code-ref/gncr-acf-flexible_content.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/529D50BB-ECF1-417B-AB9D-3A8836BBDCC3/.htaccess",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script.js",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/test.js",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script-gn.js",
+				"/Users/aglekis3/Desktop/erro_log_a_voir.txt",
+				"/Users/aglekis3/Desktop/firefox-bookmarks-20130117.html",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Chrome.sublime-build",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/aglekis3/Dropbox/Formation-perso/_jQuery-formation/tutsplus-Javascripts-fundamentals/01-JavaScript-Basics/01-Getting-started.zip",
+				"/test.html"
+			],
+			"find":
+			{
+				"height": 81.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"#footer-widgets",
+					"<<<<<HEAD",
+					"HEAD",
+					"<<<<",
+					"home-bottom",
+					"4",
+					".StylesSliderInner",
+					".StylesSliderWrap",
+					"home-bottom",
+					".home-bottom-3",
+					".home-bottom-3 ",
+					".home-bottom-3",
+					"1",
+					"#home-bottom",
+					"#home-bottom ",
+					"#home-bottom",
+					".home-bottom",
+					"#home-bottom",
+					"/* Slider */",
+					"title=\"Ouverture\"",
+					"div",
+					"clear",
+					"Piao",
+					"y",
+					"http://www.sanipousse41.com/xwp-test",
+					"timetable",
+					"http://",
+					"wp23i89ozPa_",
+					"dev.noyelle.fr",
+					"treow.net",
+					"dev.treow.eu",
+					"cache",
+					"statut bar",
+					"word wrap",
+					"title=\"Ouverture\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					".home-extra-gn"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.less",
+							"settings":
+							{
+								"buffer_size": 426,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LESS/LESS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/p-tp-real-tot.php",
+							"settings":
+							{
+								"buffer_size": 274,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										88,
+										88
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/p-tp-real-type.php",
+							"settings":
+							{
+								"buffer_size": 1429,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										962,
+										962
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 277.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/widget-extra.less",
+							"settings":
+							{
+								"buffer_size": 9532,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1040,
+										1040
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LESS/LESS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 792.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/lib-gn/functions-gn.php",
+							"settings":
+							{
+								"buffer_size": 4338,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										449,
+										449
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 12.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/variable-mixin.less",
+							"settings":
+							{
+								"buffer_size": 7256,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6625,
+										6625
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LESS/LESS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 81.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 27.0
+			},
+			"position": "59 14 1186 835 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"gn",
+						"lib-gn/functions-gn.php"
+					],
+					[
+						"var",
+						"style-less/variable-mixin.less"
+					],
+					[
+						"hom",
+						"home.php"
+					],
+					[
+						"style-less/gene",
+						"style-less/genesis-basic.less"
+					],
+					[
+						"genesi",
+						"style-less/genesis-basic.less"
+					],
+					[
+						"lesson10/",
+						"01-JavaScript-Basics/Lesson10-Loops/script-gn.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"window_id": 136,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"h",
+						"h3"
+					],
+					[
+						"gn",
+						"gn_taxo"
+					],
+					[
+						"the_ti",
+						"the_title"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"is_activ",
+						"is_active_sidebar"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"no",
+						"no_antialias"
+					],
+					[
+						"po",
+						"pop"
+					],
+					[
+						"le",
+						"len"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/aglekis3/Dropbox/Formation-perso/Git-test/css3-test-1011/css3-bouton-transition-2.html",
+					"settings":
+					{
+						"buffer_size": 720,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/aglekis3/Dropbox/Formation-perso/Git-test/css3-test-1011/css3-bouton-transition-test.html",
+					"settings":
+					{
+						"buffer_size": 725,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 12991,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 305,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/Chrome gn.sublime-build",
+			"command_palette":
+			{
+				"height": 387.0,
+				"selected_items":
+				[
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"sav",
+						"File: Save All"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Set Syntax:h",
+						"Set Syntax: HTML"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Add Repository"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"set",
+						"Set Syntax: Markdown"
+					],
+					[
+						"File",
+						"File: Save All"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/variable-mixin.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/lib-gn/functions-gn.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/home.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/p-tp-real-tot.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/widget-extra.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/responsive-max-600.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/responsive-600-960.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/images/quote.png",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.css",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/default.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/genesis-basic.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/style-main.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/functions.php",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/heading.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/variable.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/theme-extra.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less/layout.less",
+				"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style.css",
+				"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less/style-main.css",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/8A072682-E020-42BC-B56F-F5B6BB6ADADA/advanced-cache.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/9C8CB57C-00F9-47A9-B256-595815216AC4/template-home.php",
+				"/Users/aglekis3/Library/Caches/TemporaryItems/template-home.php",
+				"/Users/aglekis3/Dropbox/markdown/_ref-markdown/gntr-pro Bio Perso.txt",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/421FE04C-E75A-477F-B013-F177B7D48A4E/wp-config.php",
+				"/Users/aglekis3/PROJETS/WEB SITE/_en_pause/LDM/_Actions/mini-bio-enligne/Mini Bio-Viviane HD.html",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/3FCA1204-947E-4D1D-8EDA-C6EF274A85AB/timthumb.php",
+				"/Users/aglekis3/Dropbox/markdown/Code-ref/gncr-acf-flexible_content.php",
+				"/Users/aglekis3/Library/Caches/Cleanup At Startup/Transmit/529D50BB-ECF1-417B-AB9D-3A8836BBDCC3/.htaccess",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script.js",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/test.js",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/aglekis3/Dropbox/markdown/Modules-md/sublime-text-2/Lesson08-Arrays/script-gn.js",
+				"/Users/aglekis3/Desktop/erro_log_a_voir.txt",
+				"/Users/aglekis3/Desktop/firefox-bookmarks-20130117.html",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Chrome.sublime-build",
+				"/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/aglekis3/Dropbox/Formation-perso/_jQuery-formation/tutsplus-Javascripts-fundamentals/01-JavaScript-Basics/01-Getting-started.zip",
+				"/test.html"
+			],
+			"find":
+			{
+				"height": 81.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less,-*.css",
+					"/Applications/MAMP/gncom/yvesjaffre/wp-content/themes/gn-genesis-yvesj-v2/style-less"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"#footer-widgets",
+					"<<<<<HEAD",
+					"HEAD",
+					"<<<<",
+					"home-bottom",
+					"4",
+					".StylesSliderInner",
+					".StylesSliderWrap",
+					"home-bottom",
+					".home-bottom-3",
+					".home-bottom-3 ",
+					".home-bottom-3",
+					"1",
+					"#home-bottom",
+					"#home-bottom ",
+					"#home-bottom",
+					".home-bottom",
+					"#home-bottom",
+					"/* Slider */",
+					"title=\"Ouverture\"",
+					"div",
+					"clear",
+					"Piao",
+					"y",
+					"http://www.sanipousse41.com/xwp-test",
+					"timetable",
+					"http://",
+					"wp23i89ozPa_",
+					"dev.noyelle.fr",
+					"treow.net",
+					"dev.treow.eu",
+					"cache",
+					"statut bar",
+					"word wrap",
+					"title=\"Ouverture\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					".home-extra-gn"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/aglekis3/Dropbox/Formation-perso/Git-test/css3-test-1011"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/aglekis3/Dropbox/Formation-perso/Git-test/css3-test-1011/css3-bouton-transition-2.html",
+							"settings":
+							{
+								"buffer_size": 720,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/aglekis3/Dropbox/Formation-perso/Git-test/css3-test-1011/css3-bouton-transition-test.html",
+							"settings":
+							{
+								"buffer_size": 725,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										708,
+										708
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 12991,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7617,
+										7921
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6549.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										43,
+										43
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 81.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 27.0
+			},
+			"position": "67 34 1186 835 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"gn",
+						"lib-gn/functions-gn.php"
+					],
+					[
+						"var",
+						"style-less/variable-mixin.less"
+					],
+					[
+						"hom",
+						"home.php"
+					],
+					[
+						"style-less/gene",
+						"style-less/genesis-basic.less"
+					],
+					[
+						"genesi",
+						"style-less/genesis-basic.less"
+					],
+					[
+						"lesson10/",
+						"01-JavaScript-Basics/Lesson10-Loops/script-gn.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"window_id": 169,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/aglekis3/Dropbox/Formation-perso/Git-test/css3-test-1011/css3-test.sublime-project"
+		]
+	}
+}

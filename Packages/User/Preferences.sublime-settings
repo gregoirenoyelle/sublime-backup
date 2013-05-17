@@ -1,0 +1,26 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Sunburst gn v1.tmTheme",
+	"default_encoding": "UTF-8",
+	"dictionary": "Packages/Language - French/French.dic",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Inconsolata",
+	"font_options": "subpixel_antialias",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": true,
+	"scroll_past_end": true,
+	"use_simple_full_screen": false,
+	"word_wrap": "true"
+}
