@@ -1664,13 +1664,26 @@
 					}
 				},
 				{
-					"contents": "<!-- DOCTYPE HTML -->\n<html lang=\"fr\">\n<head>\n	<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n	<title>Transistion css3 titre court modifié</title>\n	<link href=\"css/style01.css\" rel=\"stylesheet\"/>\n</head>\n\n<body>\n	<div id=\"wrapper\">\n		<div class=\"box b1\"><a href=\"#\" class=\"foo\">Voiture</a></div>\n		<div class=\"box b2\"><a href=\"#\" class=\"foo\">Train</a></div>\n		<div class=\"box b3\"><a href=\"#\" class=\"foo\">Bateau</a></div>\n		<div class=\"box b3\"><a href=\"#\" class=\"foo\">Bouton Test 1</a></div>\n		<div class=\"box b3\"><a href=\"#\" class=\"foo\">Bouton pour Stach</a></div>\n		<br class=\"clearboth\" />\n		<div class=\"box-image\"><h2><a href=\"#\">Hello</a></h2></div>\n	<!-- / id=\"wrapper\" --></div>	\n\n</body>\n</html>",
 					"file": "/Users/aglekis3/Dropbox/Formation-perso/Git-test/css3-test-1011/css3-bouton-transition-test.html",
-					"file_size": 725,
-					"file_write_time": 1368510140000000,
 					"settings":
 					{
 						"buffer_size": 725,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 12991,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 305,
 						"line_ending": "Unix"
 					}
 				}
@@ -1678,12 +1691,20 @@
 			"build_system": "Packages/User/Chrome gn.sublime-build",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 87.0,
 				"selected_items":
 				[
 					[
-						"pac",
+						"remo",
 						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
 					],
 					[
 						"disa",
@@ -1692,10 +1713,6 @@
 					[
 						"sav",
 						"File: Save All"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
 					],
 					[
 						"side",
@@ -1738,7 +1755,7 @@
 						"File: Save All"
 					]
 				],
-				"width": 575.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -1876,7 +1893,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 3,
 					"sheets":
 					[
 						{
@@ -1932,6 +1949,60 @@
 								"zoom_level": 1.0
 							},
 							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 12991,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7617,
+										7921
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6549.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										305,
+										305
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
 						}
 					]
 				}
@@ -1971,7 +2042,7 @@
 			{
 				"height": 27.0
 			},
-			"position": "79 33 1186 835 0 0 1440 878 ",
+			"position": "67 34 1186 835 0 0 1440 878 ",
 			"replace":
 			{
 				"height": 0.0
