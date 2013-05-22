@@ -843,7 +843,7 @@
 					"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 604,
+						"buffer_size": 670,
 						"line_ending": "Unix"
 					}
 				}
@@ -851,9 +851,13 @@
 			"build_system": "Packages/User/Chrome gn.sublime-build",
 			"command_palette":
 			{
-				"height": 267.0,
+				"height": 360.0,
 				"selected_items":
 				[
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
 					[
 						"inst",
 						"Package Control: Install Package"
@@ -891,10 +895,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
 						"Package Control: l",
 						"Package Control: List Packages"
 					],
@@ -907,7 +907,7 @@
 						"File: Save All"
 					]
 				],
-				"width": 575.0
+				"width": 417.0
 			},
 			"console":
 			{
@@ -960,7 +960,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 97.0,
 				"where_history":
 				[
 					"/Applications/MAMP/gncom/gncom-v5/wp-content/themes/gncom-v5-legacy/style-less,-*.css",
@@ -1014,7 +1014,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -1029,8 +1029,8 @@
 								"selection":
 								[
 									[
-										52,
-										52
+										200,
+										200
 									]
 								],
 								"settings":
@@ -1074,15 +1074,15 @@
 							"file": "/Users/aglekis3/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 							"settings":
 							{
-								"buffer_size": 604,
+								"buffer_size": 670,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										375,
-										375
+										417,
+										417
 									]
 								],
 								"settings":
@@ -1134,7 +1134,7 @@
 			{
 				"height": 27.0
 			},
-			"position": "67 14 1186 835 0 0 1440 878 ",
+			"position": "78 28 1186 835 0 0 1440 878 ",
 			"replace":
 			{
 				"height": 0.0
