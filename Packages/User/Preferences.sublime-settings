@@ -10,7 +10,7 @@
 		".hg",
 		"CVS"
 	],
-    "file_exclude_patterns": 
+    "file_exclude_patterns":  
     [
     	"*.pyc", 
     	"*.pyo", 
