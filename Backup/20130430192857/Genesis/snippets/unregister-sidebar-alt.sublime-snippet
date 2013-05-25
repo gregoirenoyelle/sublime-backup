@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unregister_sidebar( 'sidebar-alt' );
-]]></content>
-	<tabTrigger>uralt</tabTrigger>
-	<scope>source.php,source.php.embedded.block.html</scope>
-	<description>Unregister the Secondary Sidebar</description>
-</snippet>
