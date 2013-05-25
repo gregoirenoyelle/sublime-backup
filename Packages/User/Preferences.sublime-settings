@@ -10,12 +10,36 @@
 		".hg",
 		"CVS"
 	],
+    "file_exclude_patterns": 
+    [
+    	"*.pyc", 
+    	"*.pyo", 
+    	"*.exe", 
+    	"*.dll", 
+    	"*.obj",
+    	"*.o", 
+    	"*.a", 
+    	"*.lib", 
+    	"*.so", 
+    	"*.dylib", 
+    	"*.ncb", 
+    	"*.sdf", 
+    	"*.suo", 
+    	"*.pdb", 
+    	"*.idb", 
+    	".DS_Store", 
+    	"*.class", 
+    	"*.psd", 
+    	"*.db", 
+    	".gitignore"
+    ],
 	"font_face": "Inconsolata",
 	"font_options": "subpixel_antialias",
 	"font_size": 15.0,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Emmet"
 	],
 	"line_numbers": true,
 	"overlay_scroll_bars": "enabled",
@@ -23,5 +47,5 @@
 	"scroll_past_end": true,
 	"theme": "Flatland Dark.sublime-theme",
 	"use_simple_full_screen": false,
-	"word_wrap": true
+    "word_wrap": true
 }
