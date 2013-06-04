@@ -658,6 +658,22 @@
 				<string>#751012</string>
 			</dict>
 		</dict>
+
+		<dict>
+		  <key>name</key>
+		  <string>Meta Brace</string>
+		  <key>scope</key>
+		  <string>punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>fontStyle</key>
+		    <string>bold</string>
+		    <key>foreground</key>
+		    <string>#F02A1D</string>
+		  </dict>
+		</dict>
+
+
 	</array>
 	<key>uuid</key>
 	<string>C8C58F9A-35FE-44A4-9BC2-2F3C343DC81D</string>
