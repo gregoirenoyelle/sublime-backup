@@ -24,7 +24,8 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		".gitignore"
+		".gitignore",
+		".zip"
 	],
 	"folder_exclude_patterns":
 	[
@@ -33,6 +34,22 @@
 		".hg",
 		"CVS"
 	],
+	 "binary_file_patterns": 
+	 [
+	 	"*.jpg", 
+	 	"*.jpeg", 
+	 	"*.png", 
+	 	"*.gif", 
+	 	"*.ttf", 
+	 	"*.tga", 
+	 	"*.dds", 
+	 	"*.ico", 
+	 	"*.eot", 
+	 	"*.pdf", 
+	 	"*.swf", 
+	 	"*.jar", 
+	 	"*.zip"
+	 ],
 	"font_face": "Inconsolata",
 	"font_options": "subpixel_antialias",
 	"font_size": 15.0,
