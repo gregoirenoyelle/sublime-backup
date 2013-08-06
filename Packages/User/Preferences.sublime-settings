@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"binary_file_patterns":
 	[
 		"*.jpg",
@@ -55,29 +56,29 @@
 	"font_size": 16.0,
 	"ignored_packages":
 	[
+		"Scala",
 		"Vintage",
-		"ActionScript",
-		"ASP",
-		"Clojure",
-		"D",
-		"Diff",
-		"Erlang",
-		"Go",
-		"Graphviz",
-		"Groovy",
-		"Haskell",
-		"Lisp",
+		"Rails",
+		"Perl",
 		"Lua",
 		"Matlab",
-		"OCaml",
-		"Perl",
-		"R",
-		"Rails",
-		"RestructuredText",
-		"Ruby",
-		"Scala",
+		"Erlang",
+		"ASP",
 		"TCL",
-		"YAML"
+		"Ruby",
+		"Groovy",
+		"D",
+		"Lisp",
+		"R",
+		"Clojure",
+		"RestructuredText",
+		"OCaml",
+		"Graphviz",
+		"YAML",
+		"Haskell",
+		"ActionScript",
+		"Go",
+		"Diff"
 	],
 	"line_numbers": true,
 	"overlay_scroll_bars": "desabled",
@@ -86,5 +87,5 @@
 	"theme": "Flatland Dark.sublime-theme",
 	"use_simple_full_screen": false,
 	"word_wrap": true,
-	"auto_complete_commit_on_tab": true
+	"open_files_in_new_window": false
 }
